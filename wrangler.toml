@@ -1,5 +1,5 @@
 name = "notion-worker"
 type = "javascript"
 workers_dev = true
-route = "orelhassid.com/*"
+route = "orelhassid.com/dev/*"
 zone_id = ""
